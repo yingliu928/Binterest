@@ -1,0 +1,23 @@
+{
+  "dependencies": {
+    "apollo-server": "^2.23.0",
+    "axios": "^0.21.1",
+    "bluebird": "^3.7.2",
+    "graphql": "^15.5.0",
+    "lodash": "^4.17.21",
+    "node-fetch": "^2.6.1",
+    "redis": "^3.1.1",
+    "unsplash-js": "^7.0.10",
+    "uuid": "^8.3.2"
+  },
+  "name": "cs554-lab6-ying-liu",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "yingliu",
+  "license": "ISC",
+  "description": ""
+}
