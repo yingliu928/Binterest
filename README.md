@@ -1,6 +1,6 @@
 # Binterest
-Stevens CS554 
-Enjoy your images from unsplash, add likes to your Bin!
+- Stevens CS554 assignment
+- Enjoy your images from unsplash, add likes to your Bin!
 
 ## Run Server
 ```
